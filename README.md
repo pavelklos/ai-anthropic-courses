@@ -7,7 +7,7 @@
   - Learn how to use Claude for everyday work tasks, understand core features, and explore resources for more advanced learning on other topics.
 - AI Fluency: Framework & Foundations
   - Learn to collaborate with AI systems effectively, efficiently, ethically, and safely Registered
-- Building with the Claude API
+- ### Building with the Claude API
   - This comprehensive course covers the full spectrum of working with Anthropic models using the Claude API
 - Introduction to Model Context Protocol
   - Learn to build Model Context Protocol servers and clients from scratch using Python. Master MCP's three core primitives—tools, resources, and prompts—to connect Claude with external services
